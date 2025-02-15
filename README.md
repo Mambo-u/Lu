@@ -13,7 +13,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Mambo-u/Mambo.git && cd Mambo-u/Mambo
+git clone https://github.com/Mambo-u/Lu.git && cd Lu
 ```
 
 ```bash
